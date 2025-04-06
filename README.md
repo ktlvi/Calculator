@@ -90,10 +90,6 @@ You can customize the calculator's appearance by modifying the Tailwind CSS clas
 - Sizing: Adjust the min-width, padding, and grid gap values
 - Typography: Modify the text size and tracking classes
 
-## License
-
-[MIT License](LICENSE)
-
 ## Author
 
 Ktlvi
